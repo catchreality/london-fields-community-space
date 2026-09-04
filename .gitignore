@@ -8,3 +8,6 @@ studio/dist/
 !.env.example
 
 studio/.sanity/
+
+# Local Netlify folder
+.netlify
