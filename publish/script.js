@@ -3,8 +3,8 @@ const shareStatus = document.querySelector("#share-status");
 
 shareButton?.addEventListener("click", async () => {
   const shareData = {
-    title: "Save 28–32 Ellingfort Road",
-    text: "Help stop the sale of this important Hackney community space and return it to community use.",
+    title: "Support ACV status for 28–32 Ellingfort Road",
+    text: "The sale has been stopped. Help secure the building’s future by supporting the ACV application if you’re on the Hackney electoral roll.",
     url: window.location.href,
   };
 
